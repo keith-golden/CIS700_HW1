@@ -1,0 +1,23 @@
+COMMANDS TO WIN THE GAME:
+
+go south
+
+go south
+
+take tomato sauce
+
+go north
+
+go west
+
+gift sauce
+
+go east
+
+go south
+
+loot chest
+
+go north
+
+go east
